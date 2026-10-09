@@ -37,7 +37,7 @@
     </td>
     <td width="50%" valign="top">
       <p><b>Currently building:</b> a private AI medical scribe that turns doctor–patient audio into a clinical note on a single 6 GB GPU, with no audio leaving the machine.</p>
-      <p><b>Writing:</b> <a href="https://naramkeshav59.github.io">what evals catch that demos don't, why LLM confidence isn't a safety gate, and more</a></p>
+      <p><b>Writing:</b> <a href="https://naramkeshav59.github.io">OKF vs RAG, prompt injection vs jailbreaks, CUDA for ML engineers, and more</a></p>
     </td>
   </tr>
 </table>
