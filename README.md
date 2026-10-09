@@ -21,7 +21,7 @@
     <td width="50%" valign="top">
       <a href="https://github.com/Naramkeshav59/Shuttlecast"><img src="https://opengraph.githubassets.com/1/Naramkeshav59/Shuttlecast" alt="ShuttleCast" /></a>
       <p><b>ShuttleCast</b>: turns any badminton match video into per-rally coaching notes. Trained stroke models find the rallies; a ReAct agent decides which ones are worth analyzing. Runs as an async AWS service (Lambda → SQS → Fargate) with video upload.</p>
-      <p>Hit detection <b>F1 0.87</b> on raw broadcast (vs 0.37 baseline) · evals lifted correct attribution <b>62% → 94%</b></p>
+      <p>Hit detection <b>F1 0.87</b> on raw broadcast (vs 0.37 baseline) · evals lifted correct attribution <b>62% → 94%</b> · <a href="https://www.youtube.com/watch?v=1QtO1wVZCtc">▶ demo</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Naramkeshav59/FHIRFlow"><img src="https://opengraph.githubassets.com/1/Naramkeshav59/FHIRFlow" alt="FHIRFlow" /></a>
@@ -33,7 +33,7 @@
     <td width="50%" valign="top">
       <a href="https://github.com/Naramkeshav59/finsight"><img src="https://opengraph.githubassets.com/1/Naramkeshav59/finsight" alt="FinSight" /></a>
       <p><b>FinSight</b>: a RAG system over SEC 10-K filings that answers with numbered citations, using hybrid dense + BM25 retrieval and optional cross-encoder reranking.</p>
-      <p><b>9</b> chunking × retrieval strategies benchmarked; reranking <i>lowered</i> answer quality on 10-Ks</p>
+      <p><b>9</b> chunking × retrieval strategies benchmarked; reranking <i>lowered</i> answer quality on 10-Ks · <a href="https://www.youtube.com/watch?v=IpwAQtVk1mU">▶ demo</a></p>
     </td>
     <td width="50%" valign="top">
       <p><b>Currently building:</b> a private AI medical scribe that turns doctor–patient audio into a clinical note on a single 6 GB GPU, with no audio leaving the machine.</p>
