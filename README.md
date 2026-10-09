@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Keshav%20Naram&fontSize=46&fontColor=ffffff&desc=ML%20engineer%20%C2%B7%20LLM%20agents%20%C2%B7%20vision%20%26%20speech%20%C2%B7%20healthcare%20data&descAlignY=55&fontAlignY=34&descSize=18" alt="Keshav Naram — ML engineer" />
+<img width="100%" src="assets/banner.svg" alt="Keshav Naram — ML engineer" />
 
 <p align="center">
   I ship ML that works on real data, not just benchmarks. Models, agents, pipelines, cloud, evals, end to end.
@@ -58,4 +58,4 @@
 | 2025 | MLOps | CI/CD, Airflow orchestration, Fargate deployment ([Hotel-Booking-Demand-Predictor](https://github.com/Naramkeshav59/Hotel-Booking-Demand-Predictor)) |
 | 2026 | LLM systems & healthcare data | RAG with benchmarking ([FinSight](https://github.com/Naramkeshav59/finsight)), agents and trained vision models on AWS ([ShuttleCast](https://github.com/Naramkeshav59/Shuttlecast)), clinical data interoperability ([FHIRFlow](https://github.com/Naramkeshav59/FHIRFlow)) |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=footer" alt="" />
+<img width="100%" src="assets/footer.svg" alt="" />
