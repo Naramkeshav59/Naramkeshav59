@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <sub>MS Applied Machine Learning, University of Maryland · B.Tech Electrical Engineering, IIT Dharwad</sub>
+  <sub>Master of Science in Applied Machine Learning, University of Maryland · Bachelor of Technology, IIT Dharwad</sub>
 </p>
 
 ## Featured projects
